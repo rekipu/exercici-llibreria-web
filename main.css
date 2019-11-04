@@ -1,0 +1,56 @@
+header{
+	border: 1px solid #000;
+  margin: 2px;
+  display:inline;
+  margin: 2rem;
+}
+
+footer{
+	background-color:blue;
+	text-align: center;
+	height:50px;
+	
+}
+
+
+
+.page-title{
+	height: 50px;
+  width: 400px;
+  background-color: blue;
+  text-align: center;
+  border: 2px solid #000;
+  margin: 2rem;
+   display:inline;
+  
+}
+
+.gallery {
+  margin-top: 20px;
+  display:flex;
+  flex-wrap:wrap;
+  justify-content:center;
+  
+}
+
+.gallery figure{
+	border: 2px solid #000;
+  margin: 20px;
+  text-align: center;
+  padding: 30px;
+  
+}
+.botons {
+	display: inline;
+}
+
+nav li {
+  display: inline;
+  margin: 0;
+  padding: 0 10px;
+  margin: 2rem;
+}
+
+nav ul {
+  display: inline;
+}
